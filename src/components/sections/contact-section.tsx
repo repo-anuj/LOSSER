@@ -356,7 +356,7 @@ export const ContactSection = () => {
 
                       {formStatus.isSubmitted && (
                         <div className="text-center text-sm text-green-400 mt-2">
-                          Thank you for your message! I'll get back to you soon.
+                          Thank you for your message! I&apos;ll get back to you soon.
                         </div>
                       )}
 
